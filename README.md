@@ -15,3 +15,4 @@ This application is deployed on Heroku: https://dashboard.heroku.com/apps/dry-tu
 This is the GitHub Repository: https://github.com/aliehs111/PWA_jate
 
 ![Alt text](./assets/Screenshot%202023-09-30%20at%202.42.37%20PM.png)
+![Alt text](./assets/Screenshot%202023-09-30%20at%203.31.06%20PM.png)
